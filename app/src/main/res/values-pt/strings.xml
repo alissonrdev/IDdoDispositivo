@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ID do Dispositivo</string>
+    <string name="contato">Contato</string>
+    <string name="sair">Sair</string>
+    <string name="copiar">Copiar ID</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="nenhum_cliente">Nenhum cliente de e-mail instalado.</string>
+    <string name="email_via">Enviar email via...</string>
+    <string name="id_copiado">ID copiado com sucesso!</string>
+    <string name="erro">Desculpe, algo deu errado.</string>
+    <string name="msg_id">Este é o meu ID de testes para o AdMob:</string>
+</resources>

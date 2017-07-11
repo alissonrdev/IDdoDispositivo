@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Device ID AdMob</string>
+    <string name="contato">Contact</string>
+    <string name="sair">Exit</string>
+    <string name="copiar">Copy ID</string>
+    <string name="compartilhar">Share</string>
+    <string name="nenhum_cliente">No email client installed.</string>
+    <string name="email_via">Send email via...</string>
+    <string name="id_copiado">ID copied successfully.</string>
+    <string name="erro">Sorry, something went wrong.</string>
+    <string name="msg_id">This is my test ID for AdMob:</string>
+</resources>
