@@ -10,5 +10,6 @@ A AdMob é a melhor plataforma para monetizar os seus aplicativos e maximizar su
 
 
 Baixe agora mesmo o ID do Dispositivo - ID para testes na AdMob!
+
 https://play.google.com/store/apps/details?id=com.alissonrafael.adbmobiddodispositivo
 
